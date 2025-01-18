@@ -1,0 +1,57 @@
+{
+    "user_id": 54321,
+    "username": "alice_smith",
+    "email": "alice.smith@example.com",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": false
+    },
+    "folders": [
+      {
+        "folder_name": "documents",
+        "folder_id": 1,
+        "files": [
+          {
+            "file_name": "resume.pdf",
+            "file_size": "200KB",
+            "last_modified": "2024-12-01"
+          },
+          {
+            "file_name": "cover_letter.docx",
+            "file_size": "150KB",
+            "last_modified": "2024-12-05"
+          }
+        ]
+      },
+      {
+        "folder_name": "stardust",
+        "folder_id": 2,
+        "files": [
+          {
+            "file_name": "app.js",
+            "file_size": "15KB",
+            "last_modified": "2025-01-18",
+            "hint": "may be youre close to the flag" 
+          }
+        ]
+      },
+      {
+        "folder_name": "photos",
+        "folder_id": 3,
+        "files": [
+          {
+            "file_name": "vacation.jpg",
+            "file_size": "2MB",
+            "last_modified": "2024-11-10"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "created_at": "2024-10-15T10:00:00Z",
+      "last_login": "2025-01-17T08:00:00Z",
+      "active": true
+    }
+  }
+  
